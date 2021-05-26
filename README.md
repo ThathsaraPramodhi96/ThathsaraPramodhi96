@@ -1,14 +1,14 @@
-<h1> Hi 👋, I'm Thathsara Pramodhi </h1>
-<b> IT Undergraduate from University of Moratuwa, Sri Lanka </b>
+<h1 align = "center"> Hi 👋, I'm Thathsara Pramodhi </h1>
+<h4 align = "center"> IT Undergraduate from University of Moratuwa, Sri Lanka </h4>
 
 
-
+<p align="left"><img src=https://komarev.com/ghpvc/?username=ThathsaraPramodhi96&style=flat-square" alt="hbhb" /></p>
 - 🔭 I’m currently working on Project Tracking System
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me **thathsara.pramodhi123@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
