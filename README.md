@@ -23,7 +23,7 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thathsarapramodhi" height="30"
             width="40" /></a>
 <a href="https://medium.com/@thathsara_pramodhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@thathsara_pramo" target="blank"><img align="center"
+<a href="https://www.hackerrank.com/thathsara_pramo" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="thathsarapramodhi" height="30"
             width="40" /></a>
 </p>
