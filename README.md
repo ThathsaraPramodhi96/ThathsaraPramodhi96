@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I love animal welfare**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
 
 <p align="left">
  <a href="https://twitter.com/tpramodhi" target="blank"><img align="center"
