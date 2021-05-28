@@ -45,8 +45,7 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br/>
-<img align="center" src= "https://github-readme-stats.vercel.app/api?username=ThathsaraPramodhi96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="thathsarapramodhi96" />
-<br/>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThathsaraPramodhi96&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark%22"thathsarapramodhi" /></p>
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
