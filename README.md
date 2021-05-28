@@ -49,8 +49,9 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThathsaraPramodhi96&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark%22"thathsarapramodhi" /></p>
 
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThathsaraPramodhi96&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"ThathsaraPramodhi96" /></p>
+ 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - <a href= https://medium.com/linkit-intecs/exception-handling-in-java-b2e6e1b8b6fb>Exception Handling in Java</a>
