@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python, nodeJs**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **thathsara.pramodhi123@gmail.com**
 
